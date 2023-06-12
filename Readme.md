@@ -30,4 +30,4 @@ Could show some feedback on fail, maybe change toolbar icon color to orange or s
 When hotreload fails randomly you can forget about it working again until you restart VS and uninstall app from simulator completely.
 
 
-Maui code-behind HotReload issues remain a totally different story but could be hopefully solved at the same time as this issue no.1 using same concept.
+_Maui code-behind HotReload issues remain a totally different story but could be hopefully solved at the same time as this issue no.1 using same concept._
