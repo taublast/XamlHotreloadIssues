@@ -2,6 +2,7 @@
 
 ## 1 
 We got issue on github like "datatemplate not updating in custom controls".
+https://github.com/dotnet/maui/issues/10066
 Actually when xaml hotreload finds a datatemplate and changes for it it's gonna update 
 standart maui controlslike listview, collectionview etc ignoring custom controls.
 The issue is deeper, it's like 
